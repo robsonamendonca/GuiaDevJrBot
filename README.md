@@ -1,4 +1,4 @@
-<h1>PGuiaDevJr Bot</h1>
+<h1>GuiaDevJr Bot</h1>
 
 <p align="center">
 <image src="https://via.placeholder.com/300x100.png?text=GuiaDevJR_Bot" /></br>
