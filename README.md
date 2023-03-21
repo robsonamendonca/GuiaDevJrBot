@@ -1,8 +1,8 @@
-<h1>Portifolio - API</h1>
+<h1>PGuiaDevJr Bot</h1>
 
 <p align="center">
 <image src="https://via.placeholder.com/300x100.png?text=GuiaDevJR_Bot" /></br>
-<label>+</label>
+<label>[GuiaDevJrBot](https://robsonamendonca.github.io/GuiaDevJrBot/)</label>
 </p>
 
 <p align="center">
@@ -28,7 +28,12 @@
 
 Essa é uma Landing Page para o Bot para Discord!
 
-Essa aplicação foi criada através da video aula do canal da Rafaella Ballerine.
+Essa aplicação foi criada através da video aula, segue dados abaixo:
+
+LANDING PAGE COM HTML e CSS
+- https://www.youtube.com/watch?v=llF6vD-RljE
+
+Professora: [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
 
 ## Tecnologias :rocket:
 
