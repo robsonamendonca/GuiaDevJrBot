@@ -7,7 +7,7 @@ if(button){
     //https://bit.ly/GuiaDevJrBot
     button.addEventListener("click", 
     function(){ 
-        window.location.href="https://bit.ly/GuiaDevJrBot";
+        window.location.href="https://bit.ly/GuiaDevJrBotV2";
      });
 }
 
